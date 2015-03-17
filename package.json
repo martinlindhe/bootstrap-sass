@@ -1,0 +1,24 @@
+{
+  "name": "components-bootstrap-sass",
+  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "version": "3.3.4",
+  "keywords": [
+    "sass",
+    "css",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
+  ],
+  "homepage": "http://getbootstrap.com",
+  "author": "Twitter Inc.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/components/bootstrap-sass.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "components-bootstrap": ">=3.3"
+  }
+}

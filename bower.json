@@ -1,0 +1,25 @@
+{
+  "name": "components-bootstrap-sass",
+  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "homepage": "http://getbootstrap.com",
+  "version": "3.3.4",
+  "keywords": [
+    "sass",
+    "css",
+    "less",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "components-bootstrap": ">=3.3"
+  },
+  "ignore": [
+    "component.json",
+    "package.json",
+    "composer.json"
+  ]
+}

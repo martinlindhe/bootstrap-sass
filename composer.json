@@ -1,0 +1,29 @@
+{
+  "name": "components/bootstrap-sass",
+  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "type": "component",
+  "keywords": [
+    "css",
+    "sass",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
+  ],
+  "homepage": "http://getbootstrap.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mark Otto",
+      "email": "markdotto@gmail.com"
+    },
+    {
+      "name": "Jacob Thornton",
+      "email": "jacobthornton@gmail.com"
+    }
+  ],
+  "require": {
+    "components/bootstrap": ">=3.3"
+  }
+}
